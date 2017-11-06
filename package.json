@@ -1,0 +1,28 @@
+{
+  "name": "backend_delete",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.3",
+    "express-validator": "^3.2.0",
+    "jsonwebtoken": "^7.4.1",
+    "nodemailer": "^4.0.1",
+    "nodemon": "^1.11.0",
+    "pg": "^6.2.3",
+    "randomstring": "^1.1.5",
+    "requests": "^0.2.2",
+    "socket.io": "^2.0.4"
+  },
+  "devDependencies": {
+    "body-parser": "^1.17.2",
+    "nodemon": "^1.11.0"
+  }
+}
