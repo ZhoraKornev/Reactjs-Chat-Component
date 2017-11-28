@@ -21,6 +21,9 @@ Simple Chat based on ReactJs using SocetIO
 Для запуска нужен NodeJS потому как сервер работает с сокетами.
 Запускаете nodeJS+index.js
 Стартует сервер который начинает слушать сообщения на 9000 порту,который потом передаёт их в общее окно чата.
+Нажимаете на картинку и перенаправляютесь на видео интрукции.
+![подробная инстуркция ](https://screenshots.firefoxusercontent.com/images/c61e9254-db6d-472a-9f8e-6d2dce1daf20.png)(https://www.youtube.com/watch?v=X6ijebIy8QE&feature=youtu.be)
+
 
 Содержание пакета 
 ------------
@@ -28,10 +31,16 @@ Simple Chat based on ReactJs using SocetIO
 ```php
 Название файла        | Содержание файла
 ----------------------|----------------------
-index.js              | Содержит синтаксис для удобства работы с Codeigniter
+img                   |
+kemoji                |
+socket.io             |
+.gitignore            |
 index.html            | главная страница чата
-все остальные файлы   | описание скоро обновится следите за обновлениями.
-папки                 | Описание содержимого папок 
+index.js              | Содержит синтаксис
+package.json          | описание скоро обновится следите за обновлениями.
+package-lock.json     | 
+README.md             |
+style.css             |
 ----------------------|-----------------------
 ```
 
